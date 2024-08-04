@@ -89,7 +89,6 @@ p {
 
 /* find a way to condense these as they're all the same */
 
-
 .benefit-lead {
 	margin-bottom: 32px;
 	color: #ffffff;
@@ -105,6 +104,8 @@ p {
 	color: #ffffff;
 }
 
+/* find a way to condense these as they're all the same */
+
 .benefit-lead h3 {
 	margin-bottom: 10px;
 	text-align: center;
@@ -119,6 +120,8 @@ p {
 	margin-bottom: 10px;
 	text-align: center;
 }
+
+/* find a way to condense these as they're all the same */
 
 .benefit-lead img {
 	display: block;
@@ -137,6 +140,8 @@ p {
 	margin: 10px auto;
 	max-width: 150px;
 }
+
+/* find a way to condense these as they're all the same */
 
 .search-engine-optimization {
 	margin-bottom: 20px;
@@ -165,6 +170,8 @@ p {
 	color: #ffffff;
 }
 
+/* find a way to condense these as they're all the same */
+
 .search-engine-optimization img {
 	max-height: 200px;
 }
@@ -177,7 +184,7 @@ p {
 	max-height: 200px;
 }
 
-/* condensing all the h2 tags that were previously being used. They were all the same and didn't need to be written out over and over again. */
+/* condensing all h2 tags that were previously being used into one. They were all the same and didn't need to be written out repetitively. */
 
 h2 {
 	margin-bottom: 20px;
